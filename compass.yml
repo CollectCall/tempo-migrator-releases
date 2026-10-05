@@ -1,0 +1,16 @@
+name: tempo-migrator-releases
+id: ari:cloud:compass:ba9bf9da-f946-41fd-b8ce-38a2343ad953:component/23d2e4cb-008f-4b5b-b064-ef540e4d7636/88b2a777-8458-4968-94ef-6d60a5483d80
+description: 'Releases of Tempo migrator: the app for macOS and Windows'
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/CollectCall/tempo-migrator-releases
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
